@@ -12,3 +12,14 @@ git clone https://github.com/cvvardhan2002/Port-Scanner.git <br>
 cd Port-Scanner <br>
 python3 PortScanner.py<br>
 </body>
+
+<h1>Usage</h1>
+<body>
+
+![Start the script](https://user-images.githubusercontent.com/95639719/193258529-28775ac8-18ed-4d66-aa84-5af54bc5d740.png)
+
+![Specific port](https://user-images.githubusercontent.com/95639719/193258868-6ffd1b37-1c88-4234-8d38-f0d4749740e4.png)
+
+![Multiple ports](https://user-images.githubusercontent.com/95639719/193259012-73cd3999-7c5f-4572-9ed3-7ae10419b8da.png)
+
+</body>
